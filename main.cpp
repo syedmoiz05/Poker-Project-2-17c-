@@ -1,3 +1,15 @@
+/*
+* Poker Texas Holdem
+*
+*Author: Syed Moiz
+* Date : 12 / 8 / 2024
+*
+*Description :
+    *-Play Poker by yourself or with friends against Bots.
+    * Bet chips and choose your action on each turn carefully
+    * the player with the best hand wins
+    *
+     */
 #include <iostream>
 #include <string>
 #include <algorithm>
